@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋 I am Nirvik Ghosh. Welcome to my Github Profile.
 
 - 🔭 I’m currently working on Full stack project - Infinity Store
 - 🌱 I’m currently learning Cloud Computing On GCP.
