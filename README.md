@@ -31,7 +31,7 @@
 <table align="center">
   <tr>
     <td style="border-right: 1px solid #eeeeef;" align="center"> Contributor at <a href="https://soc.hackclubrait.co/#/Home">HCSSOC'22</a> </td>
-    <td style="border-right: 1px solid #eeeeef;" align="center"> Project Maintainer at <a href="https://github.com/Nirvik07/FIFA_WORLD_CUP_2022">Hacktoberfest'22</a> </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center"> Project Maintainer and Contributor at <a href="https://github.com/Nirvik07/FIFA_WORLD_CUP_2022">Hacktoberfest'22</a> </td>
   </tr>
 </table>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirvik07&show_icons=true&locale=en&layout=compact" alt="nirvik07" /></p>
